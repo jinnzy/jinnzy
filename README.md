@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Beijing, China.
-- 🌱 I’m currently learning golang.
 - 💬 Ask me about kubernetes,golang,docker.
 - 📫 How to reach me: https://jinnzy.top
 
